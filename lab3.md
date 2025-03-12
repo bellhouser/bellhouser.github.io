@@ -1,9 +1,3 @@
----
-layout: post
-title: "Lab 3 实验报告"
-toc: true
----
-
 
 # 利用Github Pages平台搭建个人博客
 ## 实验目的
