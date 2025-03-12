@@ -6,5 +6,7 @@
 ## 实验过程
 ### 1.登录GitHub
 ![](./image/g001.png)
-### 2.新建一个仓库
+### 2.新建一个仓库,仓库名称为username.github.io
 ![](./image/g002.png)
+### 3.点击setting，找到Pages，设置由某一个branch来初始化
+![](./image/g003.png)
