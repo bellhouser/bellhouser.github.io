@@ -10,3 +10,9 @@
 ![](./image/g002.png)
 ### 3.点击setting，找到Pages，设置由某一个branch来初始化
 ![](./image/g003.png)
+### 4.进行一步可用性测试，添加一个文件index.html
+![](./image/g004.png)
+### 5.保存后，可以使用https://username.github.io的形式查看，例如我的就是https://bellhouser.github.io
+![](./image/g005.png)
+### 6.现在上传内容，在index.html中插入一个超链接——前往lab3的实验报告，并在与index.html的同级目录下创建lab3.md，报告最终以markdown形式导入
+![](./image/g006.png)
