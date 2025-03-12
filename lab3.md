@@ -21,5 +21,5 @@
 ### 7.在index.html同级目录下再开一个image目录来存放网站照片
 ![](./image/g009.png)
 ### 8.在编辑完lab3.md文件后，再点击超链接就可以看到报告了
-![](./image/g0010.png)
-![](./image/g0011.png)
+![](./image/g010.png)
+![](./image/g011.png)
