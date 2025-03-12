@@ -16,3 +16,6 @@
 ![](./image/g005.png)
 ### 6.现在上传内容，在index.html中插入一个超链接——前往lab3的实验报告，并在与index.html的同级目录下创建lab3.md，报告最终以markdown形式导入
 ![](./image/g006.png)
+![](./image/g007.png)
+![](./image/g008.png)
+### 7.在index.html同级目录下再开一个image目录来存放网站照片
